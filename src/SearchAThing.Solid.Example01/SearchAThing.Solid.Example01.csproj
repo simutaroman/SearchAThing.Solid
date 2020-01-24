@@ -71,8 +71,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SearchAThing.Sci\src\SearchAThing.Sci.csproj">
-      <Project>{F9D7F0EE-D4FF-4455-87BE-08539D2D1982}</Project>
+    <ProjectReference Include="..\SearchAThing.Sci\SearchAThing.Sci.csproj">
+      <Project>{f4bbf0f3-6914-4e08-be36-a334dba66a8d}</Project>
       <Name>SearchAThing.Sci</Name>
     </ProjectReference>
     <ProjectReference Include="..\SearchAThing.Solid.Wrapper\SearchAThing.Solid.Wrapper.vcxproj">

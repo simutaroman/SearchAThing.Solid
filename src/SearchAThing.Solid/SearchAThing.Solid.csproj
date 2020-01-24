@@ -67,12 +67,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\..\SearchAThing.Core\src\SearchAThing.Core.csproj">
-      <Project>{8162a30e-a46d-4a78-ba12-1f376ac6f1b4}</Project>
-      <Name>SearchAThing.Core</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\..\SearchAThing.Sci\src\SearchAThing.Sci.csproj">
-      <Project>{f9d7f0ee-d4ff-4455-87be-08539d2d1982}</Project>
+    <ProjectReference Include="..\SearchAThing.Sci\SearchAThing.Sci.csproj">
+      <Project>{f4bbf0f3-6914-4e08-be36-a334dba66a8d}</Project>
       <Name>SearchAThing.Sci</Name>
     </ProjectReference>
     <ProjectReference Include="..\SearchAThing.Solid.Wrapper\SearchAThing.Solid.Wrapper.vcxproj">
